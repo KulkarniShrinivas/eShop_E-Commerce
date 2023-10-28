@@ -1,3 +1,0 @@
-git rm --cached node_modules
-git rm --cached package-lock.json
-git rm --cached .env
