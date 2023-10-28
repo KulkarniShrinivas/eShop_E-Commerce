@@ -1,7 +1,7 @@
 //with help axios npm i axious or we can use js fetch function 
 import axios from 'axios';
 
-const url = 'http://localhost:8000';
+const url = import.meta.env.VITE_SERVER_URL;
 
 export const authenticateSignup = async (data) => {
     try {

@@ -7,7 +7,7 @@ import axios from "axios";
 
 import * as actionType from '../constants/productConstant';
 
-const URL = 'http://localhost:8000';
+const URL = import.meta.env.VITE_SERVER_URL;
 
 export const getProducts = () => async (dispatch) => {
     
