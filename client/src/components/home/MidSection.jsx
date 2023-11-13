@@ -23,8 +23,9 @@ const Image = styled('img')(({ theme }) => ({
 }));
 
 const MidSection = () => {
+    //corona
 
-    const url = 'https://rukminim1.flixcart.com/flap/3006/433/image/4789bc3aefd54494.jpg?q=50';
+    const url = 'https://rukminim1.flixcart.com/fk-p-flap/1600/270/image/2f5f7724b95e34b1.jpg?q=20';
     
     return (
         <>
