@@ -11,8 +11,10 @@
 - Add to cart delet product from cart
 - User can search for specific product
 - Applying discount to specific products
-- Calculating the tootal price of products 
+- Calculating the tootal price of products
 
+  
+![Screenshot from 2023-11-19 22-41-59](https://github.com/KulkarniShrinivas/eShop_E-Commerce/assets/91586785/122715e3-13f4-400e-afc0-b0f92ff2a8ef)
 
 ## Technologies Used
 
