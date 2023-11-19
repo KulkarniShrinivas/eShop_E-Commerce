@@ -4,6 +4,10 @@
 
  eShop App is a web application that allows users to connect and share content with their friends and followers. It provides a platform for users to post updates and photos, as well as interact with others through comments , likes and realtime Chat with your friends using emojis
 
+
+   
+![Screenshot from 2023-11-19 22-41-59](https://github.com/KulkarniShrinivas/eShop_E-Commerce/assets/91586785/122715e3-13f4-400e-afc0-b0f92ff2a8ef)
+
 ## Features
 
 - User registration and authentication
@@ -13,8 +17,7 @@
 - Applying discount to specific products
 - Calculating the tootal price of products
 
-  
-![Screenshot from 2023-11-19 22-41-59](https://github.com/KulkarniShrinivas/eShop_E-Commerce/assets/91586785/122715e3-13f4-400e-afc0-b0f92ff2a8ef)
+
 
 ## Technologies Used
 
